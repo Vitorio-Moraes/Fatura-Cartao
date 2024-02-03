@@ -8,8 +8,8 @@ public class connection_bd {
 
     public static void main(String[] args){
         String host = "jdbc:postgresql://localhost:5432/FaturaCartaoCredito";
-        String user = "postgres";
-        String password = "Vitorio1602$zx:/";
+        String user = "Seu user aqui";
+        String password = "Sua Senha aqui";
 
         //Testa conexão com o BD
         try {
